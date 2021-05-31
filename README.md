@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Anish Here, Hope you all are doing well.
 
 <!--
 **JuJu2181/JuJu2181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I am a progrmmer learning and innovating everyday 👨🏻‍💻
+- 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
+- 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
+- 🔍 How to reach me ❔ Find me on Twitter 🕊: @anish_shilpakar
+- 📌 Inspiration: Nobody made a greater mistake than he who did nothing because he could do only a little. ~Edmund Burke
