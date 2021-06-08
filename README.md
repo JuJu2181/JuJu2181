@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I am a progrmmer learning and innovating everyday 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
-- 🔍 How to reach me ❔ Find me on Twitter 🕊: [Link display text - URL](https://twitter.com/anish_shilpakar)
+- 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
 - 📌 Inspiration: Nobody made a greater mistake than he who did nothing because he could do only a little. ~Edmund Burke
