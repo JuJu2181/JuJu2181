@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I am a progrmmer learning and innovating everyday 👨🏻‍💻
+- 🌱 I am a programmer learning and innovating everyday 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
 - 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
