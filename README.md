@@ -2,7 +2,7 @@
 
 <hr>
 
-### ABOUT ME
+#### ABOUT ME
 
 - 🌱 I am a programmer learning and innovating everyday 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
@@ -15,3 +15,5 @@
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
 
 <hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula)
