@@ -1,21 +1,17 @@
-### Hi there 👋 Anish Here, Hope you all are doing well.
+## Hi there 👋 Anish Here, Hope you all are doing well.
 
-<!--
-**JuJu2181/JuJu2181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🌱 I am a programmer learning and innovating everyday 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
 - 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
 - 📌 Inspiration: **Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
+
+<hr>
+
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
+
+<hr>
