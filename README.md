@@ -17,3 +17,7 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula)
+
+<hr>
+
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=radical)
