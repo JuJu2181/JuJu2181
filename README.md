@@ -12,11 +12,11 @@
 
 <hr>
 
-![Profile Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=monokai)
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
 
 <hr>
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
+![Profile Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=monokai)
 
 <hr>
 
