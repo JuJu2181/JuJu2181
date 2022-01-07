@@ -12,6 +12,10 @@
 
 <hr>
 
+![Profile Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=monokai)
+
+<hr>
+
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
 
 <hr>
@@ -21,3 +25,4 @@
 <hr>
 
 ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=radical)
+
