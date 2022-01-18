@@ -9,7 +9,7 @@
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
 - 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
 ## 📌 Inspiration: 
-**Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
+> **Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
 
 <hr>
 
