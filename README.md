@@ -13,8 +13,8 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://twitter.com/anish_shilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anish_shilpakar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anish_shilpakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="https://dev.to/juju2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmerscrunity" height="30" width="40" /></a>
@@ -24,6 +24,7 @@
 
 <hr>
 
+  
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
 
 <hr>
@@ -40,8 +41,8 @@
 
 <hr>
 
-## Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i4o7rixgmoj634otiy7jefyumu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31i4o7rixgmoj634otiy7jefyumu&redirect=true)
+
+
 
 
 
