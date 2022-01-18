@@ -8,7 +8,19 @@
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
 - 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
-- 📌 Inspiration: **Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
+## 📌 Inspiration: 
+**Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
+
+<hr>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anish_shilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anish_shilpakar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anish_shilpakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
+<a href="https://dev.to/juju2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmerscrunity" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anishshilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="programmerscrunity" height="30" width="40" /></a>
+<a href="https://anish-shilpakar.com.np/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="programmerscrunity" height="30" width="40" /></a>
+</p>
 
 <hr>
 
