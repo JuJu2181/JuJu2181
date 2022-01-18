@@ -2,7 +2,7 @@
 
 <hr>
 
-#### ABOUT ME
+## ABOUT ME
 
 - 🌱 I am a programmer learning and innovating everyday 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
@@ -37,4 +37,11 @@
 <hr>
 
 ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=radical)
+
+<hr>
+
+## Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i4o7rixgmoj634otiy7jefyumu&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31i4o7rixgmoj634otiy7jefyumu&redirect=true)
+
+
 
