@@ -4,13 +4,13 @@
 
 <hr>
 
-## About me
+## About me 😁
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/anish_shilpakar"><img src="https://api.daily.dev/devcards/b52b9ebc2f5e44ec8ca15e19f308d948.png?r=iys" width="200" align="right" alt="Anish Shilpakar's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-- 🌱 I am a programmer learning and innovating everyday 👨🏻‍💻
+- 🌱 I am a programmer learning and innovating everyday and currently studying Computer Engineering 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
 - 🎯 I like working on projects and will love to work in teams.
@@ -28,7 +28,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=juju2181) -->
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me 🙌:</h2>
 <p align="center">
 <a href="https://twitter.com/anish_shilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anish_shilpakar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anish_shilpakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 
 <hr>
 
-<h2 align="center">Skills: </h2>
+<h2 align="center">My Skills 👨‍💻: </h2>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -73,7 +73,7 @@
 
  <hr> 
  
- <h2 align="center">Github Stats:</h2>
+ <h2 align="center">Github Stats 📈:</h2>
  
  <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=dracula">
