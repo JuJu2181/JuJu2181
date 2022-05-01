@@ -1,18 +1,32 @@
-## Hi there 👋 Anish Here, Hope you all are doing well.
+<h1 align="center"> Hello There 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfort&size=30&color=F74D3F&vCenter=true&lines=Nice+to+e-meet+you+%3AD;I'm+a+developer;And+a+designer;Interested+in+AI+and+NLP;Let's+connect;This+is+the+way)](https://git.io/typing-svg)
 
 <hr>
 
-## ABOUT ME
+## About me
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/anish_shilpakar"><img src="https://api.daily.dev/devcards/b52b9ebc2f5e44ec8ca15e19f308d948.png?r=iys" width="200" align="right" alt="Anish Shilpakar's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
 
 - 🌱 I am a programmer learning and innovating everyday 👨🏻‍💻
 - 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
 - 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
+- 🎯 I like working on projects and will love to work in teams.
 - 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
 - 📔 Read My Blogs Here: [AN!SH WR!TES](https://anish-shilpakar.com.np/)
+
+
+
+<hr>
+
 ## 📌 Inspiration:
 > **Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
 
 <hr>
+
+<!-- ![](https://komarev.com/ghpvc/?username=juju2181) -->
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -25,22 +39,61 @@
 
 <hr>
 
+<h2 align="center">Skills: </h2>
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+</p>
+
+
+ <hr> 
+ 
+ <h2 align="center">Github Stats:</h2>
+ 
+ <div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=dracula">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula">
+   <hr>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula">
+  <hr>
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=dracula">
+    <hr>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=juju2181&area=true&hide_border=true&theme=dracula">
+ </div>
+
+ 
+
+
   
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=onedark)
 
-<hr>
 
-![Profile Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=monokai)
 
-<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula)
-
-<hr>
-
-![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=radical)
-
-<hr>
 
 
 
