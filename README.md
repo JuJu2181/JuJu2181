@@ -76,8 +76,8 @@
  <h2 align="center">Github Stats 📈:</h2>
  
  <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=dracula" width="450">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula" width="450">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=dracula" width="400">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula" width="400">
    <hr>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula" width="500">
   <hr>
