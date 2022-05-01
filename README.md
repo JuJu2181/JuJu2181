@@ -80,6 +80,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula" width="400">
    <hr>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula" width="500">
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=juju2181" width="400"> -->
   <hr>
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=dracula">
     <hr>
