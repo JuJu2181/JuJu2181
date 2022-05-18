@@ -85,10 +85,13 @@
  <h2 align="center">Github Stats 📈:</h2>
  
  <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=dracula" width="400">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula" width="400">
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juju2181&show_icons=true&count_private=true&theme=dracula" width="400"> -->
+  <img align="center" src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=juju2181&show_icons=true&theme=dracula&hide_border=true" width="400">
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula" width="400"> -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juju2181&theme=dracula&hide_border=true" width="400">
    <hr>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula" width="450">
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juju2181&layout=compact&theme=dracula" width="450"> -->
+<img align="center" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=juju2181&show_icons=true&hide_border=true&theme=dracula&layout=compact" width="450">
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=juju2181" width="400"> -->
   <hr>
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=dracula">
