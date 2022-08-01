@@ -22,7 +22,7 @@
 <hr>
 
 ## 📌 Inspiration:
-> **Nobody made a greater mistake than he who did nothing because he could do only a little.** ~Edmund Burke
+> ***It's important to draw wisdom from many different places. If we take it from only one place it becomes rigid and stale.*** ~ **Iroh(ATLA)**
 
 <hr>
 
