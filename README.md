@@ -1,6 +1,12 @@
 <h1 align="center"> Hello There 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfort&size=30&color=F74D3F&vCenter=true&lines=Nice+to+e-meet+you+%3AD;I'm+a+developer;And+a+designer;Interested+in+AI+and+NLP;Let's+connect;This+is+the+way)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfort&size=30&color=F74D3F&vCenter=true&lines=Nice+to+meet+you+%3AD;I'm+a+developer;And+a+designer;Interested+in+AI+and+NLP;Learning+DL+and+NLP;Let's+connect;This+is+the+way)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juju2181&label=Profile%20views&color=b40e0e&style=flat" alt="juju2181" /> </p>
+<!-- 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juju2181" alt="juju2181" /></a> </p> -->
+
+<p align="left"> <a href="https://twitter.com/anish_shilpakar" target="blank"><img src="https://img.shields.io/twitter/follow/anish_shilpakar?logo=twitter&style=for-the-badge" alt="anish_shilpakar" /></a> </p>
 
 <hr>
 
@@ -16,8 +22,9 @@
 - 🎯 I like working on projects and will love to work in teams.
 - 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
 - 📔 Read My Blogs Here: [AN!SH WR!TES](https://anish-shilpakar.com.np/)
-
-
+- 👨‍💻 All of my projects are available at [https://github.com/JuJu2181](https://github.com/JuJu2181)
+- 📫 How to reach me **contact@shilpakaranish.com.np**
+- 📄 Know about my experiences [Anish Shilpakar LinkedIn](https://www.linkedin.com/in/anish-shilpakar13/)
 
 <hr>
 
@@ -37,6 +44,7 @@
 <a href="https://dev.to/juju2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/anishshilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="https://anish-shilpakar.com.np/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="programmerscrunity" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/juju2181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juju2181/" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -57,8 +65,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -75,8 +83,12 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
 
@@ -96,10 +108,10 @@
   <hr>
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juju2181&theme=dracula">
     <hr>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=juju2181&area=true&hide_border=true&theme=dracula">
+<!--    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=juju2181&area=true&hide_border=true&theme=dracula"> -->
+   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=juju2181&theme=dracula&area=true&hide_border=true">
  </div>
 
- 
 
 
   
