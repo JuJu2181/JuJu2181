@@ -6,7 +6,7 @@
 <!-- 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juju2181" alt="juju2181" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/anish_shilpakar" target="blank"><img src="https://img.shields.io/twitter/follow/anish_shilpakar?logo=twitter&style=for-the-badge" alt="anish_shilpakar" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/anish_shilpakar" target="blank"><img src="https://img.shields.io/twitter/follow/anish_shilpakar?logo=twitter&style=for-the-badge" alt="anish_shilpakar" /></a> </p> -->
 
 <hr>
 
