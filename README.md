@@ -16,11 +16,12 @@
 <a href="https://app.daily.dev/anish_shilpakar"><img src="https://api.daily.dev/devcards/b52b9ebc2f5e44ec8ca15e19f308d948.png?r=iys" width="200" align="right" alt="Anish Shilpakar's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-- 🌱 I am a programmer learning and innovating everyday and currently studying Computer Engineering 👨🏻‍💻
-- 🛠 I am highly interested on full stack development 📚💻📱 and artificial intelligence 🧠📊
-- 👓 I like doing graphic designs 🎨, web development 🕸 and recently started blogging 📖🖋
-- 🎯 I like working on projects and will love to work in teams.
-- 🔍 How to reach me ❔ Find me on Twitter 🕊: [@anish_shilpakar](https://twitter.com/anish_shilpakar)
+- 🌱 I am an experienced software engineer working across data and AI domain 👨🏻‍💻
+- 🛠 I am currently working as a Senior Data Engineer at Leapfrog.🧠📊
+- 👓 Highly skilled in data engineering, data analytics, data science. 📖🖋
+- 📈 Good knowledge and experience of working in deep learning and devops projects.
+- 🎯 I also voluntarily work as a project manager and a designer.
+- 📖 Apart from coding, I love reading books and journalling.
 - 📔 Read My Blogs Here: [AN!SH WR!TES](https://anish-shilpakar.com.np/)
 - 👨‍💻 All of my projects are available at [https://github.com/JuJu2181](https://github.com/JuJu2181)
 - 📫 How to reach me **contact@shilpakaranish.com.np**
@@ -32,14 +33,12 @@
 > ***It's important to draw wisdom from many different places. If we take it from only one place it becomes rigid and stale.*** ~ **Iroh(ATLA)**
 
 <hr>
-
 <!-- ![](https://komarev.com/ghpvc/?username=juju2181) -->
 
 <h2 align="center">Connect with me 🙌:</h2>
 <p align="center">
 <a href="https://twitter.com/anish_shilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anish_shilpakar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anish-shilpakar13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-shilpakar13" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anish_shilpakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
  <a href="https://fb.com/anish.shilpakar.juju13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anish.shilpakar.juju13" height="30" width="40" /></a>
 <a href="https://dev.to/juju2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/anishshilpakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="programmerscrunity" height="30" width="40" /></a>
