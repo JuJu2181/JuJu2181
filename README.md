@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfort&size=30&color=F74D3F&vCenter=true&lines=Nice+to+meet+you+%3AD;I'm+a+developer;And+a+designer;Interested+in+AI+and+NLP;Learning+DL+and+NLP;Let's+connect;This+is+the+way)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F77E31&width=435&lines=Nice+to+meet+you+%3AD;I+am+a+Lightseeker%F0%9F%8C%BB;The+world+does+not+owe+me+dawn.;I+seek+it%2C+I+guard+it%2C;And+if+it+vanishes%2C;I+become+it.;Let+there+be+Light+%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juju2181&label=Profile%20views&color=b40e0e&style=flat" alt="juju2181" /> </p>
 <!-- 
