@@ -35,12 +35,12 @@
 <hr>
 
 ## Professional Experience
-- Data Engineering & Architecture: Designing scalable ETL/ELT pipelines, data integration workflows, and distributed data processing architectures.
-- Cloud Data Platforms: Building and managing data solutions across AWS, Azure, and GCP, including cloud-native and hybrid infrastructure.
-- Big Data & Distributed Systems: Working with technologies for large-scale data processing, orchestration, streaming, and analytics.
-- AI & LLM Engineering: Developing production-oriented AI applications, including RAG systems, natural-language interfaces, intelligent recommendation systems, and LLM-powered workflows.
-- Data Security & Governance: Implementing access control, secrets management, authentication, and policy-based authorization for enterprise data systems.
-- Technical Leadership: Leading engineering initiatives, mentoring team members, and contributing to the architecture and delivery of production systems.
+- **Data Engineering & Architecture:** Designing scalable ETL/ELT pipelines, data integration workflows, and distributed data processing architectures.
+- **Cloud Data Platforms:** Building and managing data solutions across AWS, Azure, and GCP, including cloud-native and hybrid infrastructure.
+- **Big Data & Distributed Systems:** Working with technologies for large-scale data processing, orchestration, streaming, and analytics.
+- **AI & LLM Engineering:** Developing production-oriented AI applications, including RAG systems, natural-language interfaces, intelligent recommendation systems, and LLM-powered workflows.
+- **Data Security & Governance:** Implementing access control, secrets management, authentication, and policy-based authorization for enterprise data systems.
+- **Technical Leadership:** Leading engineering initiatives, mentoring team members, and contributing to the architecture and delivery of production systems.
 
 ## Research Projects
 - Currently researching and exploring trustworthy and responsible AI and Human Computer Interaction.
